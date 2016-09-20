@@ -1,0 +1,13 @@
+#tip: press mod + p to view a menubar
+
+Updated May 24, 2016
+---------------------------------------------
+firefox                 Mozilla FireFox
+gimp                    Gimp Image Manipulation
+haguichi                Logmein Hamachi
+pcmanfm                 PCMan File Manager
+python                  Python 3.5
+subl                    Sublime Text Editor 2
+synergyc <server ip>    Synergy
+vlc                     VLC Media Player
+wine                    Windows Program Emulator
